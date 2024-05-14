@@ -3,7 +3,7 @@
 
     "name": "TxT DL Bot",
 
-    "description": "A Modular telegram bot.",
+    "description": "A Modular telegram bot.Made by Team Red_X",
 
     "repository": "https://github.com/oVo-HxBots/TxT-DL-Bot",
     "buildpacks":[
@@ -31,7 +31,7 @@
 
         "BOT_TOKEN": {
 
-      "value":"6557888895:AfyujbAr677uhgrr67gcz",
+      "value":"6700540841:AAEzEG75XEQXqfTGmIvy136zVclAUBxQKOI",
 
             "description": "Your Bot token from @Botfather"
 
@@ -39,7 +39,7 @@
 
         "API_ID": {
 
-      "value":"29410389",
+      "value":"24665357",
 
             "description": "Your API_ID from https://my.telegram.org/apps"
 
@@ -47,7 +47,7 @@
 
         "API_HASH": {
 
-      "value":"0c716764715886f6641477ffbb63e1ee",
+      "value":"beb7e4b83ada668fa85f9a9b56338f1d",
 
             "description": "Your API_HASH from https://my.telegram.org/apps"
 
@@ -57,7 +57,7 @@
 
       "description": "Owner Id for use of /restart command",
 
-      "value":"6181884616",
+      "value":"1717511106",
 
       "required": false
 
